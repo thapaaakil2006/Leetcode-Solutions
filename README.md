@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/0015-3sum) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Dynamic Programming
@@ -64,6 +65,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/0015-3sum) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Greedy
 |  |
@@ -73,6 +75,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/0015-3sum) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Trie
 |  |
