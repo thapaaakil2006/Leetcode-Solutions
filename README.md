@@ -17,6 +17,7 @@
 | [0005-longest-palindromic-substring](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | [0002-add-two-numbers](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Recursion
 |  |
 | ------- |
@@ -81,4 +83,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
