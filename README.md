@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Math
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | [0015-3sum](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Greedy
 |  |
