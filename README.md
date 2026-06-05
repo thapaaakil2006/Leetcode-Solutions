@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
