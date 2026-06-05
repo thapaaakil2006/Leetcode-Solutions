@@ -19,6 +19,7 @@
 | [0010-regular-expression-matching](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [0009-palindrome-number](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Recursion
 |  |
 | ------- |
