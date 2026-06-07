@@ -11,6 +11,7 @@
 | [0015-3sum](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/0018-4sum) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -30,6 +31,7 @@
 | [0012-integer-to-roman](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Linked List
 |  |
 | ------- |
@@ -113,4 +115,12 @@
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
+## Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
