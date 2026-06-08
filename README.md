@@ -11,6 +11,7 @@
 | [0015-3sum](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/0018-4sum) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -86,6 +87,7 @@
 | [0016-3sum-closest](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Greedy
 |  |
@@ -123,4 +125,8 @@
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
+## Simulation
+|  |
+| ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
