@@ -17,6 +17,7 @@
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -96,6 +97,7 @@
 | [0011-container-with-most-water](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -131,4 +133,12 @@
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+## Segment Tree
+|  |
+| ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 <!---LeetCode Topics End-->
