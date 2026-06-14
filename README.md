@@ -43,6 +43,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -95,6 +96,7 @@
 | [0016-3sum-closest](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Greedy
@@ -159,4 +161,8 @@
 |  |
 | ------- |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+## Stack
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
