@@ -74,6 +74,7 @@
 | [0013-roman-to-integer](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [3612-process-string-with-special-operations-i](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
 |  |
@@ -145,6 +146,7 @@
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3612-process-string-with-special-operations-i](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Segment Tree
 |  |
