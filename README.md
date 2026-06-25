@@ -19,6 +19,7 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
@@ -38,6 +39,7 @@
 | [0013-roman-to-integer](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -90,6 +92,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -133,6 +136,7 @@
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -153,6 +157,7 @@
 |  |
 | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -170,4 +175,12 @@
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Counting
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/thapaaakil2006/Leetcode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
